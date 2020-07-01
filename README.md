@@ -81,6 +81,7 @@ Create two new Class types,
      - order.addToppings(Topping.ketchup, Topping.mustard, Topping.pickles, Topping.onions);
      - order.addDrink(Drink.dietCoke);
      - order.addSides(Side.chips, Side.fries);
+     /////////////////////
      - Order order2 = new Order(Combo.healthy);
      - order2.addDrink(Drink.dietCoke);
    </code>
